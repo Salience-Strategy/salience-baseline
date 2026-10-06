@@ -1,0 +1,129 @@
+{
+ "domain": "saliencestrategy.com",
+ "brand": "Salience Strategy",
+ "aliases": [
+  "saliencestrategy"
+ ],
+ "prompts": [
+  {
+   "q": "best AI visibility agency",
+   "kind": "dream"
+  },
+  {
+   "q": "best GEO agency for B2B companies",
+   "kind": "dream"
+  },
+  {
+   "q": "best AEO agency",
+   "kind": "dream"
+  },
+  {
+   "q": "generative engine optimization agency",
+   "kind": "dream"
+  },
+  {
+   "q": "answer engine optimization agency for B2B",
+   "kind": "dream"
+  },
+  {
+   "q": "agency to get my company recommended by ChatGPT",
+   "kind": "dream"
+  },
+  {
+   "q": "AI visibility agency for B2B SaaS",
+   "kind": "longtail"
+  },
+  {
+   "q": "how much does an AI visibility agency cost",
+   "kind": "longtail"
+  },
+  {
+   "q": "how to get recommended by ChatGPT as a B2B company",
+   "kind": "longtail"
+  },
+  {
+   "q": "how to track sales calls that come from ChatGPT",
+   "kind": "longtail"
+  },
+  {
+   "q": "GEO agency with month to month pricing",
+   "kind": "longtail"
+  },
+  {
+   "q": "how long does generative engine optimization take to work",
+   "kind": "longtail"
+  },
+  {
+   "q": "GEO agency vs SEO agency for B2B",
+   "kind": "longtail"
+  },
+  {
+   "q": "AEO agency for B2B service companies",
+   "kind": "longtail"
+  },
+  {
+   "q": "what does an AEO agency do each month",
+   "kind": "longtail"
+  },
+  {
+   "q": "AI visibility agency with no contract",
+   "kind": "longtail"
+  },
+  {
+   "q": "AI search agency that reports booked sales calls",
+   "kind": "longtail"
+  },
+  {
+   "q": "GEO agency under $3,000 a month",
+   "kind": "longtail"
+  },
+  {
+   "q": "AI visibility agency for agencies and consultancies",
+   "kind": "longtail"
+  },
+  {
+   "q": "done for you AI visibility service for startups",
+   "kind": "longtail"
+  },
+  {
+   "q": "AEO agency with published pricing",
+   "kind": "longtail"
+  },
+  {
+   "q": "agency that gets B2B companies mentioned in Perplexity and Gemini",
+   "kind": "longtail"
+  },
+  {
+   "q": "GEO agency for professional services firms",
+   "kind": "longtail"
+  },
+  {
+   "q": "AI visibility agency for cybersecurity companies",
+   "kind": "longtail"
+  },
+  {
+   "q": "AI visibility agency for fintech",
+   "kind": "longtail"
+  },
+  {
+   "q": "who can get my B2B company into Google AI Overviews",
+   "kind": "longtail"
+  },
+  {
+   "q": "AEO agency that writes comparison pages",
+   "kind": "longtail"
+  },
+  {
+   "q": "AEO Engine alternatives",
+   "kind": "competitor"
+  },
+  {
+   "q": "Discovered Labs alternatives",
+   "kind": "competitor"
+  },
+  {
+   "q": "MV3 Marketing alternatives",
+   "kind": "competitor"
+  }
+ ]
+}
