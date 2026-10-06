@@ -8,7 +8,7 @@ Each prompt is asked `--runs` times in GPT, Claude, Gemini and Perplexity
 (OpenRouter, web search on) and once in Google (Serper, US, top 10).
 
 A prompt counts for an engine when at least one of its runs names the client
-in the prose or cites a page on its domain.The output file keeps the two apart
+in the prose or cites a page on its domain. The output file keeps the two apart
 (named in the answer vs. cited as a source only).
 Prompts of kind "competitor" or with the brand in the question are branded
 and reported apart, because they name the client by construction.
