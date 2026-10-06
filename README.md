@@ -31,6 +31,7 @@ A 30-question run cost us $10.82 in October 2026.
 
 ## Links
 
+- Questions and results: [Discussions](https://github.com/Salience-Strategy/salience-baseline/discussions)
 - Site: https://saliencestrategy.com/
 - Pricing: https://saliencestrategy.com/pricing
 - Company facts: https://saliencestrategy.com/company
